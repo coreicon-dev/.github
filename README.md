@@ -2,9 +2,8 @@
   <img src="https://github.com/coreicon-dev/coreicon/blob/main/img/bg/cover-figma.png" alt="Coreicon">
 </p>
 
-# Coreicon — modern SVG icons library
-Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
-synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-modern-svg-icons-for-web-and-desktop-apps)</code>, MIT licensed, and built in Ukraine.
+# Coreicon — modern SVG icons
+Coreicon library includes 640+ UI icons for the web, iOS, Android, and desktop app built in Ukraine.
 >
 ### Features
 ``📐 Based on 24px grid``
@@ -20,14 +19,12 @@ synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-moder
 ``🧩 Figma, IconJar, .SVG``
 >
 ### Coreicon Pro
-Get <code>[Coreicon pro](https://coreicon.dev/)</code> with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
-### Figma source 
-Visit to <code>[Coreicon library](https://www.figma.com/community/olehpf)</code> in Figma community.
+Get <code>[Coreicon pro](https://coreicon.dev/)</code> with access to all 640+ UI icons for use in web, iOS, Android, and desktop apps after payment.
 ### Support
 Have questions? <code>[Let's talk](https://t.me/coreicon_bot)</code> or add a request to <code>support@coreicon.dev</code>
 ### License
 Licensed under <code>[MIT](https://choosealicense.com/licenses/mit/)</code>
 ### Contribute
-Support this project with your organization. <code>[Become contribute](https://t.me/coreicon_bot)</code>
+Support this project with your organization. <code>[Become contribute](https://coreicon.dev/about/)</code>
 >
 <code> © 2022 by [@olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine 💙💛</code>
