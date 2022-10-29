@@ -18,8 +18,8 @@ Coreicon library includes 640+ UI icons for the web, iOS, Android, and desktop a
 >
 ``🧩 Figma, IconJar, .SVG``
 >
-### Coreicon Pro
-Get <code>[Coreicon pro](https://coreicon.dev/)</code> with access to all 640+ UI icons for use in web, iOS, Android, and desktop apps after payment.
+### Official source
+Get <code>[Coreicon library](https://coreicon.dev/)</code> with access to all 640+ UI icons for use in web, iOS, Android, and desktop apps after payment.
 ### Support
 Have questions? <code>[Let's talk](https://t.me/coreicon_bot)</code> or add a request to <code>support@coreicon.dev</code>
 ### License
