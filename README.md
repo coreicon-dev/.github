@@ -20,9 +20,9 @@ synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-moder
 ``🧩 Figma, IconJar, .SVG``
 >
 ### Coreicon Pro
-Get <code>[Coreicon pro](https://coreicon.dev/coreicon-payment.pdf)</code> with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
+Get <code>[Coreicon pro](https://coreicon.dev/)</code> with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
 ### Figma source 
-Visit to <code>[Coreicon v01.1](https://www.figma.com/community/file/1105519588638228078)</code> in Figma community.
+Visit to <code>[Coreicon library](https://www.figma.com/community/olehpf)</code> in Figma community.
 ### Support
 Have questions? <code>[Let's talk](https://t.me/coreicon_bot)</code> or add a request to <code>support@coreicon.dev</code>
 ### License
