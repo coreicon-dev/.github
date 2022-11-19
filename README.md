@@ -3,7 +3,7 @@
 </p>
 
 # Coreicon — modern SVG icons
-Coreicon library includes 640+ UI icons for the web, iOS, Android, and desktop app built in Ukraine.
+Coreicon library includes 780+ UI icons for the web, iOS, Android, and desktop app built in Ukraine.
 >
 ### Features
 ``📐 Based on 24px grid``
